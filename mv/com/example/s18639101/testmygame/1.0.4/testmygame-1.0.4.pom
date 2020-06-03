@@ -11,7 +11,7 @@
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>27.0.2</version>
-      <scope>compile</scope>
+      <scope>implementation</scope>
     </dependency>
   </dependencies>
 </project>
