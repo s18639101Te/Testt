@@ -6,6 +6,7 @@
   <artifactId>testmygame</artifactId>
   <version>1.0.4</version>
   <packaging>aar</packaging>
+   <name>ViewPagerIndicator</name>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
